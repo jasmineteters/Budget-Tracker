@@ -37,4 +37,4 @@ Link to the GitHub live page: https://budget-tracker-jt.herokuapp.com/
 
 ## Gif of App:
 
-![](./icons/BudgetTracker.gif)
+![](/public/icons/BudgetTracker.gif)
