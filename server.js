@@ -16,9 +16,10 @@ app.use(express.json());
 
 app.use(express.static("public"));
 
-mongoose.connect("mongodb://localhost/budget", {
+mongoose.connect(uri || 'mongodb://localhost/workout', {
   useNewUrlParser: true,
-  useFindAndModify: false
+  useUnifiedTopology: true,
+  useFindAndModify: false,
 });
 
 // routes
