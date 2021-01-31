@@ -32,6 +32,7 @@ Email: [jasmineteters2020@gmail.com](mailto:jasmineteters2020@gmail.com)
 ## Live Deployment:
 
 Link to the GitHub Repo: https://github.com/jasmineteters/Budget-Tracker
+
 Link to the GitHub live page: https://budget-tracker-jt.herokuapp.com/
 
 ## Gif of App:
